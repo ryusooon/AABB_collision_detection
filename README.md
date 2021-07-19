@@ -4,7 +4,7 @@ AABBクラスを作成しました。
 ただし、衝突判定部分の実装がされていません。
 実装して、ユニットテストが通るようにしてください。
 
-[![MS Build and Test](https://github.com/tpu-game-2021/AABB_collision_detection/actions/workflows/MsBuildAndTest.yml/badge.svg)](https://github.com/tpu-game-2021/AABB_collision_detection/actions/workflows/MsBuildAndTest.yml)
+[![MS Build and Test](https://github.com/ryusooon/AABB_collision_detection/actions/workflows/MsBuildAndTest.yml/badge.svg)](https://github.com/ryusooon/AABB_collision_detection/actions/workflows/MsBuildAndTest.yml)
 
 （このファイルの上の行の[tpu-game-2021]の部分(2か所)を自分のアカウント名に修正してください）
 
